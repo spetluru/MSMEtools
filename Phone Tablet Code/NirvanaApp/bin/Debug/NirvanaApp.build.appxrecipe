@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SUSHMITHAKURA</Machine>
+    <WindowsUser>Sushmitha</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>418cfea7-68e9-43c7-aebd-5e113e916cfd</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Sushmitha\Documents\Visual Studio 2013\Projects\Nirvana\NirvanaApp\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Sushmitha\Documents\Visual Studio 2013\Projects\Nirvana\NirvanaApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Sushmitha\Documents\Visual Studio 2013\Projects\Nirvana\NirvanaApp\bin\Debug\NirvanaApp.exe">
+      <PackagePath>NirvanaApp.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sushmitha\Documents\Visual Studio 2013\Projects\Nirvana\NirvanaApp\Assets\background.jpg">
+      <PackagePath>Assets\background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sushmitha\Documents\Visual Studio 2013\Projects\Nirvana\NirvanaApp\Assets\thank you.jpg">
+      <PackagePath>Assets\thank you.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sushmitha\Documents\Visual Studio 2013\Projects\Nirvana\NirvanaApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sushmitha\Documents\Visual Studio 2013\Projects\Nirvana\NirvanaApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sushmitha\Documents\Visual Studio 2013\Projects\Nirvana\NirvanaApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sushmitha\Documents\Visual Studio 2013\Projects\Nirvana\NirvanaApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sushmitha\Documents\Visual Studio 2013\Projects\Nirvana\NirvanaApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sushmitha\Documents\Visual Studio 2013\Projects\Nirvana\NirvanaApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sushmitha\Documents\Visual Studio 2013\Projects\Nirvana\NirvanaApp\bin\Debug\Page1.xbf">
+      <PackagePath>Page1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sushmitha\Documents\Visual Studio 2013\Projects\Nirvana\NirvanaApp\bin\Debug\Page2.xbf">
+      <PackagePath>Page2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sushmitha\Documents\Visual Studio 2013\Projects\Nirvana\NirvanaApp\bin\Debug\Page3.xbf">
+      <PackagePath>Page3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sushmitha\Documents\Visual Studio 2013\Projects\Nirvana\NirvanaApp\bin\Debug\Page4.xbf">
+      <PackagePath>Page4.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sushmitha\Documents\Visual Studio 2013\Projects\Nirvana\NirvanaApp\bin\Debug\Page5.xbf">
+      <PackagePath>Page5.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sushmitha\Documents\Visual Studio 2013\Projects\Nirvana\NirvanaApp\bin\Debug\Page6.xbf">
+      <PackagePath>Page6.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sushmitha\Documents\Visual Studio 2013\Projects\Nirvana\NirvanaApp\bin\Debug\Page7.xbf">
+      <PackagePath>Page7.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sushmitha\Documents\Visual Studio 2013\Projects\Nirvana\NirvanaApp\bin\Debug\NirvanaApp.xr.xml">
+      <PackagePath>NirvanaApp.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sushmitha\Documents\Visual Studio 2013\Projects\Nirvana\NirvanaApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="MyServiceClassSoap" maxBufferSize="2147483647"
+                    maxReceivedMessageSize="2147483647">
+                    <security mode="None" />
+                </binding>
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="http://mobileservices.nirvanaspaandsalon.com/Myservice.asmx"
+                binding="basicHttpBinding" bindingConfiguration="MyServiceClassSoap"
+                contract="ServiceReference2.MyServiceClassSoap" name="MyServiceClassSoap" />
+        </client>
+    </system.serviceModel>
+</configuration>

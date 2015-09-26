@@ -1,0 +1,25 @@
+﻿    .myGrid {
+    width:100%;
+    background-color:#fff;
+    margin:5px 0px 10px 0px;
+    border: solid 1px #525252;
+    border-collapse:collapse;
+}
+
+.myGrid td {
+    padding:2px;
+    border: solid 1px #c1c1c1;
+    color: #717171;
+}
+
+.myGrid th {
+        padding:4px 2px;
+        color:#fff;
+        background-color:#424242;
+        border-left:solid 1px #525252;
+        font-size:0.9em;
+}
+
+.myGrid .alt {
+    background-color:#EFEFEF;
+}

@@ -1,0 +1,5 @@
+﻿<ListItems>
+  <ListItem text="--SELECT--" value="--Select--"></ListItem>
+  <ListItem text="Active" value="1"></ListItem>
+  <ListItem text="InActive" value="0"></ListItem>
+</ListItems>
